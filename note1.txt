@@ -1,0 +1,8 @@
+
+How are you ?
+Nice to meet you ?
+
+var x = name ;
+
+System.out.println("Hello My name is + "name");
+
