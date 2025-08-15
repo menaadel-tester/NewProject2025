@@ -18,7 +18,11 @@ git add
 
 #### How to add image
 <div>
-<img src="https://images.app.goo.gl/y1kCnCnowGSoukjh9">
-<img src="https://images.app.goo.gl/j7AwEVE4inJGD8wo6">
+<img src="https://github.com/user-attachments/assets/043ea2fd-a1e7-42ad-8809-4215848d6c19" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/043ea2fd-a1e7-42ad-8809-4215848d6c19" width="300" height="300">
 </div>
+
+#### How to Add video with photo
+
+[!["What is git ?]()]
 
