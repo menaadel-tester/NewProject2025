@@ -1,0 +1,17 @@
+name : First WorkFlow
+on:
+  push:
+      branches:
+      - master
+
+jobs:
+     example-jobs:
+      runs-on: windows-lastest
+
+      steps:
+      - name: Print a Welcome Message 
+        run: echo " Welcome to our first github actions"
+        
+      
+     
+     
